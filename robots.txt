@@ -1,1 +1,1 @@
-Sitemap: http://sebastianaro.com/sitemap.xml
+Sitemap: http://sebastianaro.com/portfolio/sitemap.xml
